@@ -1,0 +1,8 @@
+c:\users\matteo\documents\visual studio 2012\Projects\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+C:\Users\Linguistico\Desktop\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe.config
+C:\Users\Linguistico\Desktop\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Tassonomia\Tassonomia\bin\Debug\Tassonomia.exe
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Tassonomia\Tassonomia\bin\Debug\Tassonomia.pdb
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Tassonomia\Tassonomia\obj\Debug\Tassonomia.csprojResolveAssemblyReference.cache
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Tassonomia\Tassonomia\obj\Debug\Tassonomia.exe
+C:\Users\Matteo\Documents\Visual Studio 2012\Projects\Tassonomia\Tassonomia\obj\Debug\Tassonomia.pdb
